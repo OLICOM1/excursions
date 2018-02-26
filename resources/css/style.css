@@ -13,11 +13,13 @@ body {
 .middle {
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
 
 .bottom {
   font-size: 21px;
   color: gray;
+  text-decoration: none;
 }
 
 	p {
